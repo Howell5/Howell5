@@ -6,6 +6,7 @@ Building [GenApp.now](https://genapp.now) — Turn AI-generated code into real b
 
 - [mata](https://github.com/Howell5/mata) — AI-powered code sandbox with Claude + E2B
 - [moles](https://github.com/Howell5/moles) — AI agent that generates VitePress docs from codebases
+- [skills](https://github.com/Howell5/willhong-skills) - Skills shared by Will Hong for Claude Code and other AI agents.
 - [PopArt](https://github.com/Howell5/PopArt) — AI infinite canvas for image generation
 - [idd](https://github.com/Howell5/idd) — Image to SVG converter with SAM 2 segmentation
 - [limbo](https://github.com/Howell5/limbo) — Browser automation API with Gemini
