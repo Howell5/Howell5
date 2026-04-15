@@ -13,7 +13,7 @@ Building [GenApp.now](https://genapp.now) — Turn AI-generated code into real b
 - [domain-hunter](https://github.com/Howell5/domain-hunter) — CLI for finding startup-worthy domains
 - [retro-grid](https://github.com/Howell5/retro-grid) — Retro grid background component for Vue 3
 - [gi](https://github.com/Howell5/gi) — GitLab/GitHub CLI tools
-- [heymoss](https://github.com/Howell5/morph-template) — Type-safe full-stack monorepo template
+- [morph-template](https://github.com/Howell5/morph-template) — Type-safe full-stack monorepo template
 - [tailwind-visual-editor](https://github.com/Howell5/tailwind-visual-editor) — Tailwind visual editor
 
 [X](https://x.com/howell9511) · [Email](mailto:howell9529@outlook.com)
